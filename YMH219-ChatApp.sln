@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatCommon", "ChatCommon\ChatCommon.csproj", "{8F42D9D4-2195-4F0A-9059-A5CF50AAD592}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatServer", "ChatServer\ChatServer.csproj", "{AA64512A-76EF-4374-AB11-AEFAFFD7BA4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatClient", "ChatClient\ChatClient.csproj", "{8F8C62E7-E0F5-4590-B629-7C252FA22911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F42D9D4-2195-4F0A-9059-A5CF50AAD592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F42D9D4-2195-4F0A-9059-A5CF50AAD592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F42D9D4-2195-4F0A-9059-A5CF50AAD592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F42D9D4-2195-4F0A-9059-A5CF50AAD592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA64512A-76EF-4374-AB11-AEFAFFD7BA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA64512A-76EF-4374-AB11-AEFAFFD7BA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA64512A-76EF-4374-AB11-AEFAFFD7BA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA64512A-76EF-4374-AB11-AEFAFFD7BA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F8C62E7-E0F5-4590-B629-7C252FA22911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8C62E7-E0F5-4590-B629-7C252FA22911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8C62E7-E0F5-4590-B629-7C252FA22911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8C62E7-E0F5-4590-B629-7C252FA22911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
